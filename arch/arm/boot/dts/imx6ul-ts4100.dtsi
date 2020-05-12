@@ -567,7 +567,7 @@
 			>;
 		};
                 /*  adc1 is currently using IO09,to use pwm2 remove IO09 from the ADC
-		 *  definition and set pwm2 peripheral to "okay
+		 *  definition and set pwm2 peripheral to "okay"
 		 */
 		pinctrl_pwm2: ts4100pwm2 {
 			fsl,pins = <
